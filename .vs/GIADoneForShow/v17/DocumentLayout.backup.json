@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\caxac\\source\\repos\\GIADoneForShow\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DCA4CBCF-54C3-4306-B88A-F1D6B18DEC02}|GIADoneForShow\\GIADoneForShow.csproj|c:\\users\\caxac\\source\\repos\\giadoneforshow\\giadoneforshow\\admineditorderwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{DCA4CBCF-54C3-4306-B88A-F1D6B18DEC02}|GIADoneForShow\\GIADoneForShow.csproj|solutionrelative:giadoneforshow\\admineditorderwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCA4CBCF-54C3-4306-B88A-F1D6B18DEC02}|GIADoneForShow\\GIADoneForShow.csproj|c:\\users\\caxac\\source\\repos\\giadoneforshow\\giadoneforshow\\admineditorderwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{DCA4CBCF-54C3-4306-B88A-F1D6B18DEC02}|GIADoneForShow\\GIADoneForShow.csproj|solutionrelative:giadoneforshow\\admineditorderwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCA4CBCF-54C3-4306-B88A-F1D6B18DEC02}|GIADoneForShow\\GIADoneForShow.csproj|c:\\users\\caxac\\source\\repos\\giadoneforshow\\giadoneforshow\\stafforderwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{DCA4CBCF-54C3-4306-B88A-F1D6B18DEC02}|GIADoneForShow\\GIADoneForShow.csproj|solutionrelative:giadoneforshow\\stafforderwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCA4CBCF-54C3-4306-B88A-F1D6B18DEC02}|GIADoneForShow\\GIADoneForShow.csproj|c:\\users\\caxac\\source\\repos\\giadoneforshow\\giadoneforshow\\mainwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{DCA4CBCF-54C3-4306-B88A-F1D6B18DEC02}|GIADoneForShow\\GIADoneForShow.csproj|solutionrelative:giadoneforshow\\mainwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCA4CBCF-54C3-4306-B88A-F1D6B18DEC02}|GIADoneForShow\\GIADoneForShow.csproj|c:\\users\\caxac\\source\\repos\\giadoneforshow\\giadoneforshow\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{DCA4CBCF-54C3-4306-B88A-F1D6B18DEC02}|GIADoneForShow\\GIADoneForShow.csproj|solutionrelative:giadoneforshow\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 245,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\caxac\\source\\repos\\GIADoneForShow\\GIADoneForShow\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "GIADoneForShow\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\caxac\\source\\repos\\GIADoneForShow\\GIADoneForShow\\MainWindow.xaml.cs",
+              "RelativeToolTip": "GIADoneForShow\\MainWindow.xaml.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAgwDwAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T08:35:06.832Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\caxac\\source\\repos\\GIADoneForShow\\GIADoneForShow\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "GIADoneForShow\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\caxac\\source\\repos\\GIADoneForShow\\GIADoneForShow\\MainWindow.xaml",
+              "RelativeToolTip": "GIADoneForShow\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-02T08:34:57.437Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AdminEditOrderWIndow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\caxac\\source\\repos\\GIADoneForShow\\GIADoneForShow\\AdminEditOrderWIndow.xaml.cs",
+              "RelativeDocumentMoniker": "GIADoneForShow\\AdminEditOrderWIndow.xaml.cs",
+              "ToolTip": "C:\\Users\\caxac\\source\\repos\\GIADoneForShow\\GIADoneForShow\\AdminEditOrderWIndow.xaml.cs*",
+              "RelativeToolTip": "GIADoneForShow\\AdminEditOrderWIndow.xaml.cs*",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAqwFcAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T09:02:37.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AdminEditOrderWIndow.xaml",
+              "DocumentMoniker": "C:\\Users\\caxac\\source\\repos\\GIADoneForShow\\GIADoneForShow\\AdminEditOrderWIndow.xaml",
+              "RelativeDocumentMoniker": "GIADoneForShow\\AdminEditOrderWIndow.xaml",
+              "ToolTip": "C:\\Users\\caxac\\source\\repos\\GIADoneForShow\\GIADoneForShow\\AdminEditOrderWIndow.xaml",
+              "RelativeToolTip": "GIADoneForShow\\AdminEditOrderWIndow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-02T09:02:33.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StaffOrderWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\caxac\\source\\repos\\GIADoneForShow\\GIADoneForShow\\StaffOrderWindow.xaml",
+              "RelativeDocumentMoniker": "GIADoneForShow\\StaffOrderWindow.xaml",
+              "ToolTip": "C:\\Users\\caxac\\source\\repos\\GIADoneForShow\\GIADoneForShow\\StaffOrderWindow.xaml",
+              "RelativeToolTip": "GIADoneForShow\\StaffOrderWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-02T09:01:05.734Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

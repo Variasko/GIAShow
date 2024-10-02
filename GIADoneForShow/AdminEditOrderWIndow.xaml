@@ -1,0 +1,118 @@
+﻿<Window x:Class="GIADoneForShow.AdminEditOrderWIndow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:GIADoneForShow"
+        mc:Ignorable="d"
+        Title="AdminEditOrderWIndow" Height="450" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="50"/>
+        </Grid.RowDefinitions>
+
+        <ScrollViewer VerticalScrollBarVisibility="Hidden"
+              Grid.Row="0">
+
+            <StackPanel>
+
+                <GroupBox Header="Тип и модель устройства" Margin="200 20">
+
+                    <StackPanel>
+
+                        <ComboBox x:Name="eqTypeCB"
+                          Margin="10"
+                          FontSize="20"/>
+
+                        <ComboBox x:Name="eqModelCB"
+                          Margin="10"
+                          FontSize="20"/>
+
+                    </StackPanel>
+
+                </GroupBox>
+
+                <GroupBox Header="Тип неисправности" Margin="200 20">
+
+                    <StackPanel>
+
+                        <ComboBox x:Name="deffectCB"
+                          Margin="10"
+                          FontSize="20"/>
+
+                    </StackPanel>
+
+                </GroupBox>
+
+                <GroupBox Header="Серийный номер устройства" Margin="200 20">
+
+                    <StackPanel>
+
+                        <TextBox x:Name="serialNumberTB"
+                         MaxLength="20"
+                         Margin="10"
+                         FontSize="20"/>
+
+                    </StackPanel>
+
+                </GroupBox>
+
+                <GroupBox Header="Описание неисправности" Margin="200 20">
+
+                    <TextBox x:Name="descriptionTB" 
+                     Margin="10"
+                     TextWrapping="Wrap"
+                     AcceptsReturn="True"
+                     Height="100"
+                     FontSize="20"/>
+
+                </GroupBox>
+
+                <GroupBox Header="Приоритет и статус" Margin="200 20">
+
+                    <StackPanel>
+
+                        <ComboBox x:Name="priorityCB"
+                              Margin="10"
+                              FontSize="20"/>
+                        <ComboBox x:Name="statusCB"
+                              Margin="10"
+                              FontSize="20"/>
+
+                    </StackPanel>
+
+                </GroupBox>
+
+                <GroupBox Header="Ответственный сотрудник" Margin="200 20">
+
+                    <ComboBox x:Name="empIdCB"
+                              FontSize="20"
+                              Margin="10"/>
+
+                </GroupBox>
+
+            </StackPanel>
+
+        </ScrollViewer>
+
+        <Button x:Name="backButton"
+Content="Назад"
+Grid.Row="1"
+HorizontalAlignment="Left"
+FontSize="20"
+Margin="20 5"
+Padding="4"
+Click="backButton_Click"/>
+
+        <Button x:Name="saveButton"
+Content="Сохранить"
+Grid.Row="1"
+HorizontalAlignment="Right"
+FontSize="20"
+Margin="20 5"
+Padding="4"
+Click="saveButton_Click"/>
+
+    </Grid>
+</Window>

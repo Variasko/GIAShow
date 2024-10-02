@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="e7c6671407db4942877f97184ba76370" Name="Diagram1">
+        <EntityTypeShape EntityType="EquipmentRepairModel.Client" Width="1.5" PointX="0.75" PointY="2.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="EquipmentRepairModel.Deffect" Width="1.5" PointX="0.75" PointY="5.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="EquipmentRepairModel.Employee" Width="1.5" PointX="0.75" PointY="8.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="EquipmentRepairModel.EquipmentModel" Width="1.5" PointX="0.75" PointY="11.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="EquipmentRepairModel.EquipmentType" Width="1.5" PointX="0.75" PointY="14" IsExpanded="true" />
+        <EntityTypeShape EntityType="EquipmentRepairModel.Order" Width="1.5" PointX="3" PointY="1.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="EquipmentRepairModel.Priority" Width="1.5" PointX="0.75" PointY="16.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="EquipmentRepairModel.Status" Width="1.5" PointX="0.75" PointY="18.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="EquipmentRepairModel.sysdiagrams" Width="1.5" PointX="5.75" PointY="0.75" IsExpanded="true" />
+        <AssociationConnector Association="EquipmentRepairModel.FK_Application_Client" ManuallyRouted="false" />
+        <AssociationConnector Association="EquipmentRepairModel.FK_Application_Deffect" ManuallyRouted="false" />
+        <AssociationConnector Association="EquipmentRepairModel.FK_Application_Employee" ManuallyRouted="false" />
+        <AssociationConnector Association="EquipmentRepairModel.FK_Application_EquipmentModel" ManuallyRouted="false" />
+        <AssociationConnector Association="EquipmentRepairModel.FK_Application_EquipmentType" ManuallyRouted="false" />
+        <AssociationConnector Association="EquipmentRepairModel.FK_Application_Priority" ManuallyRouted="false" />
+        <AssociationConnector Association="EquipmentRepairModel.FK_Application_Status" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
